@@ -1,0 +1,56 @@
+2/9/2022
+
+
+mysql and microsoft ++ setup
+\\172.16.55.11\Miscellaneous\ACGI QA\Dilmeet\KT Handover (Russia) - Milind and Mukesh\Batch Simulator\VeriShiled_Line_Machine_Simulator
+
+batch simulator file and SOP of installation of batch simulator and mysql install
+\\172.16.55.11\Miscellaneous\ACGI QA\Dilmeet\KT Handover (Russia) - Milind and Mukesh\Batch Simulator\VeriShiled_Line_Machine_Simulator
+
+simulated vision system taught by surendra sir(teach, run job, app config)
+
+
+
+
+
+
+2/10/22, 
+learnt electrical drawings of bpo;
+
+2/11/22
+-track and trace service pending
+-second half bis and bpo service 
+
+12,13- bis ui learned and checked intermediate logic (dcc/plc/intermediate)
+14,15-sick
+
+16- connection setup and foil ocv/ocr detection in bpo
+-zig test in bis to inspect synronization test between screen ui and sdio card light 
+y17-camera  op
+y16- light  op
+left ke bottom corner side 2 light are output in sdio
+
+bis-3 camera + requirement
+bpo
+
+
+21feb= tested different foild on bis
+22feb= malay sir review and bis labview zig test from site file of extra count
+
+
+
+
+11/3/22
+network path:                    \\172.16.56.20\acgi qa\Surendra_Senapati\QA\Ayush\
+
+Task list completed:
+- Software Manual Testing
+- Release Management system
+- BIS/BPO/LIS/CPIR XL/ AFC/ one more level / Rework training .
+- Server side testing , deploying patches, SQL fault analysis , Networking stuff WINSCP, LAN establishment.
+- Got insight of hardware (PLC, inductive , capacitive sensor, Encoder, Variable drives)
+- PLC training pending
+- Emebedded system course (peripherals like serail important) pending
+- Software Development life cycle insight. (Prepare Q.A interview questions) 
+
+
